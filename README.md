@@ -42,6 +42,10 @@ directory consistent with the list below.
 		--- ButtonLabels
 			The .jpgs in this folder are used as headers for each of the button
 			icons when using the Action Frame
+		--- Desktop Backgrounds
+			The images in this folder are used for the desktop background feature.
+			Healslut Background.png is what the feature sets the user's background
+			to. Background.png is what it sets the background to upon program close.
 		--- Errors
 			Anytime the program runs into an issue, it will log that error
 			here. If the problem persists, reach out to me and let me know
@@ -90,6 +94,9 @@ directory consistent with the list below.
 		--- Video
 			This folder can be filled with any videos you'd like to tie to 
 			your punishments and rewards. They must be .mp4 files. 
+		--- (Preferences.txt)
+			This file is used by the program to store user settings. Don't
+			touch it!
 			
 
 In order to use the vibrator function of this program you've got to download the Lovense 
@@ -104,8 +111,8 @@ You can find an explanation of the settings menu in the link below. Please revie
 full of valuable information.
 				https://imgur.com/a/avdiNg7
 This image was made before I added the looping audio and the image converter. Instructions for
-each of them are found in this document.
-it was also made before I added the gif formatter and preview
+each of them are found in this document. It was also made before I added the gif formatter and
+preview, as well as several other features.
 
 This program is packaged with an mp3 player which you can set to cycle through a number of tracks 
 while the overlay is running. It is distributed with a few songs and scripts, but the user can add 
@@ -352,6 +359,14 @@ feedback.
 
 	####################### Change Log #######################
 
+Version 1.4.6
+		--- Overlay Functions
+	-	Fixed bug where program would sometimes break when "End Hypno" was pressed.
+	-	Fixed "Loading Screen Tip.png" error
+
+		--- Text Functions
+	-	Fixed formatting error in Praise.txt
+
 Version 1.4.5
 		--- Text Functions
 	-	Introducing the new Sissy/Bimbo Hypo Text package that is over 150 lines! To implement 
@@ -374,6 +389,7 @@ Version 1.4.5
 		completed lines
 	-	Attempted to fix a bug which affects users by falsly declaring that the program cannot
 		locate certain resources
+	-	Added negative buzz tone that now plays when overlay detects poor player performance
 		
 		--- The Killfeed Monitor
 	-	Added support for the death of the submissive in League of Legends in 1920x1080
